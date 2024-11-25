@@ -1,0 +1,23 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.6",
+    "playwright": "^1.48.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
