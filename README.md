@@ -8,7 +8,9 @@ Une dizaine de tests ont été codés, le détail du gherkin et des tests résid
 Avant de commencer, assurez-vous d'avoir installé les outils et dépendances suivants :
 
 - **Node.js** (version 16 ou supérieure)
-- **Playwright** (voir installation ci-dessous)
+- **Playwright** 
+
+<img src="Test.png" alt="scanner" />
 
 ## Execution
 Pour exécuter les tests :
